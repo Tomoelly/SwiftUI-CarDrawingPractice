@@ -50,5 +50,4 @@ This exercise helps build confidence with layout, alignment, and layering in Swi
 │   ├── Momo.colorset/
 │   └── OffWhite.colorset/
 ├── ContentView.swift
-├── preview.png
 └── README.md
